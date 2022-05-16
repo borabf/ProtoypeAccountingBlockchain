@@ -12,7 +12,6 @@ import java.io.*;
 import java.text.ParseException;  
 import java.text.SimpleDateFormat;  
 
-// C:\Users\borab\Desktop\inputs.txt
 public class Main {
     public static void main(String[] args){
         ArrayList<String> files = new ArrayList<String>();
