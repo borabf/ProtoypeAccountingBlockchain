@@ -16,4 +16,5 @@ template merkle(depth){
     out <== mroot[0].out;
 
 }
+
 component main = merkle(2);
